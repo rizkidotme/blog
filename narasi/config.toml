@@ -1,0 +1,47 @@
+baseURL = "https://rizki.me"
+languageCode = "id-ID"
+title = "Muhammad Rizkillah's Blog"
+theme="archie"
+copyright = "© MR"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=true
+	subtitle = "A blog about programming, technology, and life."
+paginate = 6 
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/rizkidotme"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/rizkidotme/"
+
+[[params.social]]
+name = "GitLab"
+icon = "gitlab"
+url = "https://gitlab.com/rizkidotme/"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
