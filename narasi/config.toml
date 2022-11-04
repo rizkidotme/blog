@@ -1,15 +1,15 @@
 baseURL = "https://rizki.me"
 languageCode = "id-ID"
-title = "Muhammad Rizkillah's Blog"
+title = "Teks dari Rizki"
 theme="archie"
 copyright = "© MR"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="auto"
+	mode="dark"
 	useCDN=true
-	subtitle = "A blog about programming, technology, and life."
+	subtitle = "simple dump thought log"
 paginate = 6 
 
 [[params.social]]
