@@ -1,1 +1,1 @@
-# blog
+hari ini aku belajar banyak hal
